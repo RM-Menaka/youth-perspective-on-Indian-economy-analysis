@@ -1,3 +1,7 @@
+ YOUTH PERSPECTIVE ON INDIAN ECONOMY a datamining project.
+ 🔗 Live Dashboard:
+https://youth-perspective-on-indian-economy-analysis.streamlit.app
+
 This project analyzes the relationship between youth demographics, financial mindset, marriage trends, fertility preferences, and economic outlook in India using survey-based data.
 
 The study combines statistical visualization, clustering algorithms, and dimensionality reduction techniques to identify behavioral patterns influencing future workforce and population dynamics.
@@ -12,22 +16,6 @@ Identify mindset-based population clusters
 
 Compare cluster results with national fertility trends (NFHS reference)
 
-**Key Analysis Performed**
-
-Age group distribution analysis
-
-Marriage age trend visualization
-
-Financial stability importance by gender
-
-Urban vs Rural child-raising perception
-
-Ideal number of children by demographic group
-
-Workforce projection analysis (GDP vs Labor Force)
-
-AI & automation perception study
-
 **Machine Learning Techniques Used**
 
 K-Means Clustering (Mindset Segmentation)
@@ -38,13 +26,7 @@ PCA (Principal Component Analysis) (Dimensionality Reduction & Validation)
 
 Label Encoding & Feature Scaling
 
-Clusters Identified:
-
-Urban-Modern
-
-Rural-Traditional
-
-Practical-Balanced
+Clusters Identified
 
 **Tech Stack**
 
@@ -57,6 +39,8 @@ Matplotlib
 Seaborn
 
 Scikit-learn
+
+Streamlit
 
 **Key Insights**
 
