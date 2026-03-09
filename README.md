@@ -1,4 +1,4 @@
- YOUTH PERSPECTIVE ON INDIAN ECONOMY a datamining project.
+# YOUTH PERSPECTIVE ON INDIAN ECONOMY a datamining project.
  🔗 Live Dashboard:
 https://youth-perspective-on-indian-economy-analysis.streamlit.app
 
@@ -6,7 +6,7 @@ This project analyzes the relationship between youth demographics, financial min
 
 The study combines statistical visualization, clustering algorithms, and dimensionality reduction techniques to identify behavioral patterns influencing future workforce and population dynamics.
 
-**Objectives**
+# Objectives
 
 Analyze youth perceptions on marriage, financial stability, and family size
 
@@ -16,7 +16,7 @@ Identify mindset-based population clusters
 
 Compare cluster results with national fertility trends (NFHS reference)
 
-**Machine Learning Techniques Used**
+# Machine Learning Techniques Used
 
 K-Means Clustering (Mindset Segmentation)
 
@@ -28,7 +28,7 @@ Label Encoding & Feature Scaling
 
 Clusters Identified
 
-**Tech Stack**
+# Tech Stack
 
 Python
 
@@ -42,7 +42,7 @@ Scikit-learn
 
 Streamlit
 
-**Key Insights**
+# Key Insights
 
 Younger respondents prefer smaller families
 
